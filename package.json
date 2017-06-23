@@ -1,0 +1,16 @@
+{
+  "name": "exif-editor",
+  "version": "0.1.0",
+  "description": "Exif Editor - Used to help Mapillary/OpenStreetView issues",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Denis Carriere <@DenisCarriere>",
+  "license": "MIT",
+  "dependencies": {
+    "dist-exiftool": "^10.53.0",
+    "exiftool": "^0.0.3",
+    "node-exiftool": "^2.2.0"
+  }
+}
